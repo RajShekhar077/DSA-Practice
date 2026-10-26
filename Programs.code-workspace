@@ -5,6 +5,12 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../ANSHU & NISHU PROGRAMS"
+		},
+		{
+			"path": "../Soil Mitra"
 		}
 	],
 	"settings": {
@@ -54,7 +60,6 @@
 			"streambuf": "cpp",
 			"thread": "cpp",
 			"typeinfo": "cpp"
-		},
-		"liveServer.settings.multiRootWorkspaceName": "Programs"
+		}
 	}
 }
